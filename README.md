@@ -1,79 +1,166 @@
 # iki1uc – ROOT
 
-## Zweck
-Dieses Repository bildet den Ursprung der gesamten Struktur.  
-Es stellt die öffentliche Identität des Systems bereit und dient  
-als Einstiegspunkt für alle Module, Achsen und Bereiche.
-
-iki1uc ist der sichtbare **ROOT‑Kern** des gesamten 3hit90‑Systems.
+ROOT ist der Ursprung, die Gründer‑Ebene und die neutrale Null‑Form des gesamten Systems.
+Es bildet die OctaCore‑Geometrie und stellt die öffentliche Identität bereit.
 
 ---
 
-## Identität
-- CORE: iki1uc  
-- VERSION: 1.0  
-- CODE: RAW  
-- LAGE: ROOT / Creator / NC  
-- STATUS: Online  
+## ⭐ ROOT‑Identität
 
-iki1uc ist die **öffentliche Identität**, nicht die Engine.
+- **CORE:** iki1uc  
+- **VERSION:** 1.0  
+- **CODE:** RAW  
+- **LAGE:** ROOT / Creator / NC  
+- **STATUS:** Online  
+- **FORM:** OctaCore  
+- **ROLE:** Gründer  
 
----
-
-## Inhalt
-- index.html – öffentliche Landing‑Page  
-- ID.html – Identitätsdarstellung  
-- visual/ – Visualisierungen  
-- modules/ – Verlinkte System‑Repos  
+ROOT ist die sichtbare Identität des Systems, nicht die Engine.
 
 ---
 
-## Stationen – ROOT 360°
-Das ROOT‑System folgt der Sequenz:
+## ⭐ ROOT‑Inhalt (5‑Stationen)
 
-**iki → bir → uc → iki1uc(ROOT) → iki → bir → uc → …**
+ROOT besteht aus fünf aktiven Stationen, die sich selbst emulieren:
 
-Dies bildet den **360°‑Kreis**, der alle Achsen und Bereiche verbindet:
+1. **ID.html** – Identität  
+2. **r.html** – RESPO‑ROOT  
+3. **l.html** – LAGE‑ROOT  
+4. **s.html** – SCAN‑ROOT  
+5. **index.html** – ROOT‑Visual + OctaCore  
 
-- iki = Ursprung  
-- bir = Erweiterung  
-- uc = Fusion  
-- iki1uc = ROOT‑Identität  
-
-Dieser Zyklus ist die Grundlage für:
-
-- **[SYS](ca://s?q=SYS_Root_erklaeren)** – Struktur  
-- **[TEM](ca://s?q=TEM_Root_erklaeren)** – Zeit  
-- **[ID](ca://s?q=ID_Root_erklaeren)** – Identität  
-- **[OP](ca://s?q=Operator_Root_erklaeren)** – Operator  
-
-sowie für die vier Geo‑Systeme:
-
-- **[TΩ](ca://s?q=T_Omega_System_erklaeren)** – Tetraeder + Oktagon  
-- **[XU](ca://s?q=XU_System_erklaeren)** – Achsenkreuz  
-- **[Φ4](ca://s?q=Phi4_System_erklaeren)** – Achsenfamilie  
-- **[O12](ca://s?q=O12_System_erklaeren)** – OctaCore² + 12D‑Fusion  
+Diese fünf Stationen bilden die **ROOT‑5‑Matrix**, die die Grundlage für die **6e‑Matrix** ist.
 
 ---
 
-## Verbindung zu System‑Repos
-iki1uc ROOT verlinkt auf:
+## ⭐ ROOT‑RESPO (r.html)
 
-- **[SYS](ca://s?q=SYS_Root_erklaeren)** – System‑Wurzel  
-- **[TEM](ca://s?q=TEM_Root_erklaeren)** – Zeit‑Wurzel  
-- **[ID](ca://s?q=ID_Root_erklaeren)** – Identitäts‑Wurzel  
-- **[OP](ca://s?q=Operator_Root_erklaeren)** – Operator‑Wurzel  
-- **3hit90** – Hauptsystem  
-- **SETUP** – Installations‑/Initialisierungs‑Modul  
+RESPO‑ROOT:
+TMP‑0
+LAGE‑0
+AXIS‑0
+PIPE‑0
+
+ARG‑ROOT:
+arg = 0
+xarg = ROOT
+cache = aktiv
+operator = Gründer
+
 
 ---
 
-## Hinweis
-Dieses Repository enthält keine Engine‑Mechanismen.  
-Es dient ausschließlich der öffentlichen Darstellung und Struktur.  
+## ⭐ ROOT‑LAGE (l.html)
+
+
+
+LAGE‑ROOT:
+POS = 0
+TMP‑LAGE = ROOT
+AXIS‑ROOT = 0
+STATUS = Stabil
+
+
+---
+
+## ⭐ ROOT‑SCAN (s.html)
+
+
+
+CAN‑ROOT:
+MASTER‑SCAN = Aktiv
+TMP‑SCAN = 0
+AXIS‑SCAN = 0
+PIPE‑SCAN = 0
+STATUS = OK
+
+
+---
+
+## ⭐ ROOT‑Geometrie (OctaCore)
+
+ROOT bildet die **OctaCore‑Form**, die die neutrale Gründer‑Geometrie darstellt:
+
+- **8 Flächen → 8×8**  
+- **6 Achsen → 6e**  
+- **1 Zentrum → TMP‑0**  
+- **0 Lage → LAGE‑0**  
+- **0 Achsenverschiebung → AXIS‑0**
+
+Diese Geometrie ist die korrekte ROOT‑Form.
+
+---
+
+## ⭐ ROOT → Axiom‑3 → Axiom‑4 (Abgleich)
+
+### **Axiom‑3 (RESPO‑Ebene)**  
+- RESPO‑ROOT  
+- RESPO‑ACHSE  
+- RESPO‑TMP  
+
+### **Axiom‑4 (neutraler Raum)**  
+Axiom‑4 entsteht aus:
+
+Axiom‑4 = ROOT + ACHSE + TMP
+
+
+### **6e‑Matrix (Abgleich)**
+
+**Dreieck‑1 (3e):**
+- ROOT  
+- ACHSE  
+- TMP  
+
+**Dreieck‑2 (3e):**
+- 16×16  
+- 8×8  
+- CODE  
+
+→ **6e vollständig und korrekt**
+
+### **81‑Matrix**
+
+9 × 9 = 81
+
+
+→ **81‑Matrix aktivierbar**
+
+### **BENCH = TRUE**
+
+→ Final‑Modul bereit
+
+---
+
+## ⭐ ROOT‑360°‑Sequenz
+
+iki → bir → uc → iki1uc(ROOT) → iki → bir → uc → …
+
+
+Diese Sequenz bildet den **ROOT‑Kreis**, der alle Achsen und Bereiche verbindet.
+
+---
+
+## ⭐ System‑Verbindungen
+
+ROOT verlinkt auf:
+
+- SYS – Struktur  
+- TEM – Zeit  
+- ID – Identität  
+- OP – Operator  
+- 3hit90 – Hauptsystem  
+- SETUP – Initialisierung  
+
+---
+
+## ⭐ Hinweis
+
+Dieses Repository enthält **keine Engine‑Mechanismen**.  
+Es dient ausschließlich der öffentlichen Darstellung, Geometrie, Stationen und ROOT‑Identität.
+
 Engine‑Funktionen befinden sich in:
 
 - RUN8  
 - O12  
 - SYS  
-- TEM  
+- TEM

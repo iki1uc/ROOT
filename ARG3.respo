@@ -1,0 +1,8 @@
+ARG3.respo = {
+  third.source = "scan",
+  third.mode   = "bind",
+  third.type   = "EVO",
+
+  output       = "4u.wordset",
+  state        = "ready"
+}

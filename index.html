@@ -2,7 +2,7 @@
 <html lang="de">
 <head>
 <meta charset="UTF-8">
-<title>iki1uc – ROOT</title>
+<title>iki1uc – ROOT + Vector</title>
 
 <style>
 body { background:#000; color:#0f0; font-family:monospace; padding:20px; }
@@ -22,6 +22,12 @@ a { color:#6cf; display:block; margin:10px 0; text-align:center; }
 @keyframes spin {
   0% { transform:rotate(0deg); }
   100% { transform:rotate(360deg); }
+}
+
+button {
+  background:#6cf; color:#000; border:none;
+  padding:10px 20px; font-family:monospace;
+  display:block; margin:20px auto; cursor:pointer;
 }
 </style>
 </head>
@@ -60,6 +66,34 @@ LAGE = ROOT
 STATUS = Aktiv
 GEOMETRIE = OctaCore
 </pre>
+
+<h2 style="text-align:center;">Vector‑System</h2>
+<button id="vecTest">PQ → PX Routing testen</button>
+
+<pre id="vecOutput">Vector‑System wird geladen…</pre>
+
+<script type="module">
+    import VEC from "./VEC.tor";
+
+    const System = {
+        vec: VEC,
+        route(from, to, data) {
+            const packet = this.vec.send(from, to, data);
+            return this.vec.recv(packet);
+        }
+    };
+
+    document.getElementById("vecOutput").textContent =
+        "VEC.tor geladen\n" +
+        "PQ / PX / PR aktiv\n" +
+        "Routing bereit";
+
+    document.getElementById("vecTest").onclick = () => {
+        const result = System.route("PQ-LAPTOP", "PX-APPLE", "Hallo Apple");
+        document.getElementById("vecOutput").textContent =
+            JSON.stringify(result, null, 2);
+    };
+</script>
 
 </body>
 </html>

@@ -1,0 +1,12 @@
+version = 1.0
+type    = "root-sequencer"
+
+root.init      = "wloch"
+root.vector    = "call"
+root.opta      = "shift"
+root.cluster   = "formation"
+root.kette     = "bind"
+root.gate      = "open"
+
+output         = "VECTOR.bildung"
+state          = "ready"

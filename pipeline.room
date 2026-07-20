@@ -1,0 +1,19 @@
+{
+  "ROOT": {
+    "VECTOR_MODULES": [
+      "BEN.tmp",
+      "C.tmp",
+      "DA.tmp",
+      "NE.tmp",
+      "X.tmp",
+      "Z.tmp"
+    ],
+    "ROUTING_MODULES": {
+      "CORE": "X.room.CORE",
+      "IN": "X.room.IN",
+      "OUT": "X.room.OUT"
+    },
+    "VECTOR_TYPE": "6e",
+    "MODE": "ROOT-4u"
+  }
+}

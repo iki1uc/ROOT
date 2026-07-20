@@ -1,0 +1,11 @@
+version = 1.0
+type    = "vector-init"
+
+vector.type   = "12e"
+vector.source = "ROOT"
+vector.mode   = "EVO"
+
+cluster       = "9hoch9"
+bildung       = 81
+
+state         = "active"

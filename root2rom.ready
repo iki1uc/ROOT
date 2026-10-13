@@ -1,0 +1,9 @@
+ROOT_2_ROM:
+  TMP-0 -> spin.rom
+  LAGE-0 -> VESTA_300k
+  AXIS-0 -> cdn.fbsbx.com
+  PIPE-0 -> github.io
+  OCTACORE_8 -> 8x8 -> 81-Matrix
+  6e -> 27_Gruppen
+  ROOT -> cyc -> BALL+WETTER+ROLLE -> ZIEL
+  READY=1
